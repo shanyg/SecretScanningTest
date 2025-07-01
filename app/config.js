@@ -5,7 +5,7 @@ const config = {
     // Dummy JWT-like Bearer Token
     bearerToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.DUMMYJWTSIGNATUREForTestingOnly1234567890abcdef",
     // Dummy JWT-like Bearer Token 2
-    bearerToken2: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.DUMMYJWTSIGNATUREForTestingOnly1234567890abcdef",
+    bearerToken2: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG2lIiwiaWF0IjoxNTE2MjM5MDIyfQ.DUMMYJWTSIGNATUREForTestingOnly1234567890abcdef",
     // Dummy Slack Bot Token
     slackBotToken: "xoxb-1234567890-DUMMYSlackBotToken1234567890abc",
   },
