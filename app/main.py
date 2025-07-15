@@ -27,6 +27,9 @@ ADMIN_PASSWORD_LOW_ENTROPY = "password123"
 # High entropy (dummy) password
 APP_SECRET_PASSWORD = "MyS3cr3tDummY!P@ssw0rd_aBcDeF"
 
+# Barb token
+barbslack = "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"
+
 def get_config():
     """Retrieves application configuration."""
     config = {
