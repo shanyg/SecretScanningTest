@@ -8,6 +8,9 @@ const config = {
     bearerToken2: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG2lIiwiaWF0IjoxNTE2MjM5MDIyfQ.DUMMYJWTSIGNATUREForTestingOnly1234567890abcdef",
     // Dummy Slack Bot Token
     slackBotToken: "xoxb-1234567890-DUMMYSlackBotToken1234567890abc",
+
+    // Barb token
+    barbToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdDDiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.YUMMYJWTSIGNATUREForTestingOnly1234567890abcdef",
   },
   database: {
     host: "db.example.com",
